@@ -1,8 +1,8 @@
 ### Hi there 👋
-### I’m currently working on understanding JavaScript within the MVC pattern, along with API's and Databases.
-### I’m currently learning about becoming a software developer at CodeWorks in Boise.
-### How to reach me: Seth7293@gmail.com
-### Fun fact: I enjoy being outdoors and being active.
+## I’m currently working on understanding JavaScript within the MVC pattern, along with API's and Databases.
+## I’m currently learning about becoming a software developer at CodeWorks in Boise.
+## How to reach me: Seth7293@gmail.com
+## Fun fact: I enjoy being outdoors and being active.
 
 <!--
 **Seth-McCormick/Seth-McCormick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
