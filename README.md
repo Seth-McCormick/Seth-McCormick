@@ -1,8 +1,6 @@
 ### Hi there 👋
-#### I’m currently working on understanding JavaScript within the MVC pattern, along with API's and Databases.
-#### I’m currently learning about becoming a software developer at CodeWorks in Boise.
-#### Fun fact: I enjoy being outdoors and being active.
-#### How to reach me: Seth7293@gmail.com
+#### I just finished up going to a coding bootcamp where I learned HTML, CSS, JavaScript, BootStrap, C#, SQL. Where I was able to acquire 500+ hours of hands on coding. The ability to solve problems has become an instant love for me and the software development field excels in letting me put that skill to the test along with so many others I have acquired along my jpurney.
+#### How to reach me: https://www.linkedin.com/in/seth-mccormick-718229243/
 
 <!--
 **Seth-McCormick/Seth-McCormick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
