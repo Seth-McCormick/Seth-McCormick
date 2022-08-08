@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I just finished up going to a coding bootcamp where I learned HTML, CSS, JavaScript, BootStrap, C#, SQL. Where I was able to acquire 500+ hours of hands on coding. The ability to solve problems has become an instant love for me and the software development field excels in letting me put that skill to the test along with so many others I have acquired along my jpurney.
+#### I just finished up going to a coding bootcamp where I was able to acquire 500+ hours of hands on coding in that time I learned how to build Full stack applications using HTML, CSS, JavaScript, BootStrap, C#, SQL. The ability to solve problems has become an instant love for me and the software development field excels in letting me put that skill to the test along with so many others I have acquired along my journey.
 #### How to reach me: https://www.linkedin.com/in/seth-mccormick-718229243/
 
 <!--
